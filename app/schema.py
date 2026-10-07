@@ -17,7 +17,7 @@ class Invoice(BaseModel):
     vendor: str | None = None
     invoice_number: str | None = None
     invoice_date: date | None = None
-    currency: Literal["INR", "USD", "EUR"] | None = None  # only these codes, otherwise None
+    currency: Literal["INR", "USD", "EUR", "MYR"] | None = None  # only these codes, otherwise None
     subtotal: float | None = Field(default=None, ge=0)    # before tax, e.g. 500
     tax: float | None = Field(default=None, ge=0)         # e.g. 90
     total: float | None = Field(default=None, ge=0)       # final amount, e.g. 590

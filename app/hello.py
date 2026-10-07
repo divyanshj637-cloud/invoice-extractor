@@ -42,7 +42,7 @@ FORMAT RULES:
 - If a value is missing, return null.
 - Invoice number: omit any '#' symbol.
 - Dates: format as YYYY-MM-DD.
-- Currency: must be one of INR, USD or EUR otherwise null."""
+- Currency: must be one of INR, USD EUR or MYR (RM means MYR) otherwise null."""
         },
         {"role": "user", "content": text},
     ],
