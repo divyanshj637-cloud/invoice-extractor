@@ -1,0 +1,17 @@
+{
+  "vendor": "SOON HUAT MACHINERY ENTERPRISE",
+  "invoice_number": "CS00004040",
+  "invoice_date": "2019-01-11",
+  "currency": null,
+  "subtotal": null,
+  "tax": null,
+  "total": 327.0,
+  "line_items": null,
+  "_note": "no GST shown; no RM printed",
+  "_sroie_hint": {
+    "company": "SOON HUAT MACHINERY ENTERPRISE",
+    "date": "11/01/2019",
+    "address": "NO.53 JALAN PUTRA 1, TAMAN SRI PUTRA, 81200 JOHOR BAHRU JOHOR",
+    "total": "327.00"
+  }
+}

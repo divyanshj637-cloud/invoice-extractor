@@ -1,0 +1,17 @@
+{
+  "vendor": "MYNEWS RETAIL SB",
+  "invoice_number": "1856 - 608 - 9161 - 2806180322",
+  "invoice_date": "2018-06-28",
+  "currency": "MYR",
+  "subtotal": 6.0,
+  "tax": 0.0,
+  "total": 6.0,
+  "line_items": null,
+  "_note": "",
+  "_sroie_hint": {
+    "company": "MYNEWS RETAIL SB",
+    "date": "28/06/2018",
+    "address": "UNIT 105, BLOCK A,PUSAT DAGANGAN PHILEO DAMANSARA, NO.9, JALAN 16/11,,46350,PETALING JAYA,SELANGOR",
+    "total": "6.00"
+  }
+}

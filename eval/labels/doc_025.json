@@ -1,0 +1,17 @@
+{
+  "vendor": "KEDAI PAPAN YEW CHUAN",
+  "invoice_number": "CS00011904",
+  "invoice_date": "2018-04-17",
+  "currency": "MYR",
+  "subtotal": 180.0,
+  "tax": 10.8,
+  "total": 190.8,
+  "line_items": null,
+  "_note": "",
+  "_sroie_hint": {
+    "company": "KEDAI PAPAN YEW CHUAN",
+    "date": "17/04/2018",
+    "address": "LOT 276 JALAN BANTING 43800 DENGKIL, SELANGOR",
+    "total": "190.80"
+  }
+}

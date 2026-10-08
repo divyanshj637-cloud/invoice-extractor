@@ -1,0 +1,11 @@
+{
+  "vendor": "Lotus Handicrafts",
+  "invoice_number": "EXP-0098",
+  "invoice_date": "2025-02-14",
+  "currency": "USD",
+  "subtotal": null,
+  "tax": null,
+  "total": 2020.0,
+  "line_items": null,
+  "_note": "no tax charged"
+}

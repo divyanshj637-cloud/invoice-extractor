@@ -1,0 +1,17 @@
+{
+  "vendor": "OLIVE9 PHARMACY SDN BHD",
+  "invoice_number": "CS00168420",
+  "invoice_date": "2017-03-31",
+  "currency": null,
+  "subtotal": null,
+  "tax": 0.69,
+  "total": 12.15,
+  "line_items": null,
+  "_note": "printed SUB-TOTAL 12.19 includes GST, no excl-GST line",
+  "_sroie_hint": {
+    "company": "OLIVE9 PHARMACY SDN BHD",
+    "date": "31/03/2017",
+    "address": "69 JALAN NOVA U5/N, SEKSYEN U5 SUBANG BE",
+    "total": "12.15"
+  }
+}

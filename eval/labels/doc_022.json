@@ -1,0 +1,17 @@
+{
+  "vendor": "UNIHAKKA INTERNATIONAL SDN BHD",
+  "invoice_number": "OR18051402170467",
+  "invoice_date": "2018-05-14",
+  "currency": null,
+  "subtotal": null,
+  "tax": 0.5,
+  "total": 8.9,
+  "line_items": null,
+  "_note": "price in $, no RM; GST summary only, no subtotal line",
+  "_sroie_hint": {
+    "company": "UNIHAKKA INTERNATIONAL SDN BHD",
+    "date": "14 MAY 2018",
+    "address": "12, JALAN TAMPOI 7/4,KAWASAN PERINDUSTRIAN TAMPOI,81200 JOHOR BAHRU,JOHOR",
+    "total": "$8.90"
+  }
+}

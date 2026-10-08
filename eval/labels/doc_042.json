@@ -1,0 +1,11 @@
+{
+  "vendor": "Nandini Pharma Distributors",
+  "invoice_number": "NPD-2291",
+  "invoice_date": "2024-08-09",
+  "currency": null,
+  "subtotal": 1395.0,
+  "tax": null,
+  "total": 1523.56,
+  "line_items": null,
+  "_note": "split GST, two rates"
+}

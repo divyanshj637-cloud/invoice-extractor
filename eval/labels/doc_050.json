@@ -1,0 +1,11 @@
+{
+  "vendor": "Kaveri Organic Farms",
+  "invoice_number": "A-1002",
+  "invoice_date": "2024-12-25",
+  "currency": "INR",
+  "subtotal": null,
+  "tax": null,
+  "total": 1250.0,
+  "line_items": null,
+  "_note": ""
+}

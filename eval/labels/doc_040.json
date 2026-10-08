@@ -1,0 +1,11 @@
+{
+  "vendor": "SHREE KRISHNA ELECTRONICS",
+  "invoice_number": "SKE/2024/0932",
+  "invoice_date": "2024-11-22",
+  "currency": null,
+  "subtotal": 1650.0,
+  "tax": null,
+  "total": 1950.0,
+  "line_items": null,
+  "_note": "split GST; math inconsistent: 1650+148.50+148.50=1947, printed total 1950"
+}

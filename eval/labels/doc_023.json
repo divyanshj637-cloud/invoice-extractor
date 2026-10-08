@@ -1,0 +1,17 @@
+{
+  "vendor": "RELAIS TOTAL OULMES",
+  "invoice_number": null,
+  "invoice_date": "2018-03-30",
+  "currency": null,
+  "subtotal": null,
+  "tax": null,
+  "total": 56.0,
+  "line_items": null,
+  "_note": "currency is DH; no tax line",
+  "_sroie_hint": {
+    "company": "RELAIS TOTAL OULMES",
+    "date": "30/03/2018",
+    "address": "AUTOROUTE RABAT MEKNES 15000 KHEMISSET",
+    "total": "56.00"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "vendor": "TONYMOLY VIVA CITY",
+  "invoice_number": "8807946",
+  "invoice_date": "2018-03-29",
+  "currency": "MYR",
+  "subtotal": null,
+  "tax": 2.77,
+  "total": 48.95,
+  "line_items": null,
+  "_note": "no subtotal line; only the GST summary shows 46.16"
+}

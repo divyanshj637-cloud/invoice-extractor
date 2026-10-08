@@ -1,0 +1,17 @@
+{
+  "vendor": "FUN N CHEER (MALURI)",
+  "invoice_number": "0200419363",
+  "invoice_date": "2018-01-05",
+  "currency": "MYR",
+  "subtotal": 28.11,
+  "tax": 1.69,
+  "total": 29.8,
+  "line_items": null,
+  "_note": "number labeled only NO",
+  "_sroie_hint": {
+    "company": "FUN N CHEER (MALURI)",
+    "date": "05/01/2018",
+    "address": "LOT 37636 , JALAN 6/37A, TAMAN BUKIT MALURI , 52100 KUALA LUMPUR",
+    "total": "29.80"
+  }
+}

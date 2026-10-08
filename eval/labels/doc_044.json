@@ -1,0 +1,11 @@
+{
+  "vendor": "SwiftNet Broadband Pvt Ltd",
+  "invoice_number": "SN2501-448812",
+  "invoice_date": "2025-01-01",
+  "currency": "INR",
+  "subtotal": null,
+  "tax": null,
+  "total": 1200.01,
+  "line_items": null,
+  "_note": "split GST; Plan Charges 1016.95 is not a subtotal label"
+}

@@ -1,0 +1,11 @@
+{
+  "vendor": "Royal Tailors",
+  "invoice_number": "77",
+  "invoice_date": "2025-06-04",
+  "currency": null,
+  "subtotal": null,
+  "tax": null,
+  "total": 850.0,
+  "line_items": null,
+  "_note": ""
+}

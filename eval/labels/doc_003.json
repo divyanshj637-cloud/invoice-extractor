@@ -1,0 +1,11 @@
+{
+  "vendor": "DI HUAN YA RESTAURANT",
+  "invoice_number": "199977",
+  "invoice_date": "2018-04-07",
+  "currency": "MYR",
+  "subtotal": 33.0,
+  "tax": 1.98,
+  "total": 35.0,
+  "line_items": null,
+  "_note": "math inconsistent: rounding adjustment 0.02"
+}

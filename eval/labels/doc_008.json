@@ -1,0 +1,17 @@
+{
+  "vendor": "RESTORAN WAN SHENG",
+  "invoice_number": "1199976",
+  "invoice_date": "2018-06-18",
+  "currency": "MYR",
+  "subtotal": 6.5,
+  "tax": 0.0,
+  "total": 6.5,
+  "line_items": null,
+  "_note": "",
+  "_sroie_hint": {
+    "company": "RESTORAN WAN SHENG",
+    "date": "18-06-2018",
+    "address": "NO.2, JALAN TEMENGGUNG 19/9, SEKSYEN 9, BANDAR MAHKOTA CHERAS, 43200 CHERAS, SELANGOR",
+    "total": "6.50"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "vendor": "SYARIKAT PERNIAGAAN GIN KEE",
+  "invoice_number": "CS00012543",
+  "invoice_date": "2018-01-04",
+  "currency": "MYR",
+  "subtotal": 42.2,
+  "tax": 2.53,
+  "total": 44.73,
+  "line_items": null,
+  "_note": ""
+}

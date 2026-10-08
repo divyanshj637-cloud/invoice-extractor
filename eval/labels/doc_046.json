@@ -1,0 +1,11 @@
+{
+  "vendor": "Northwind Translations",
+  "invoice_number": "2025-031",
+  "invoice_date": "2025-03-17",
+  "currency": "EUR",
+  "subtotal": null,
+  "tax": null,
+  "total": 600.0,
+  "line_items": null,
+  "_note": "export, no GST"
+}

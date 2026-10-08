@@ -1,0 +1,11 @@
+{
+  "vendor": "GREEN LEAF RESTAURANT",
+  "invoice_number": "4521",
+  "invoice_date": "2025-02-03",
+  "currency": null,
+  "subtotal": 930.0,
+  "tax": null,
+  "total": 976.0,
+  "line_items": null,
+  "_note": "split GST"
+}

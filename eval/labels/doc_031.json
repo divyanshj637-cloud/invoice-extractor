@@ -1,0 +1,17 @@
+{
+  "vendor": "PRINT EXPERT SDN BHD",
+  "invoice_number": "CS00489817",
+  "invoice_date": "2018-01-12",
+  "currency": "MYR",
+  "subtotal": 4.0,
+  "tax": 0.24,
+  "total": 4.25,
+  "line_items": null,
+  "_note": "math inconsistent: rounding 0.01",
+  "_sroie_hint": {
+    "company": "PRINT EXPERT SDN BHD",
+    "date": "12/01/2018",
+    "address": "NO 18, 20, 22, JALAN BUNGA TANJONG 2/16, 40000 SHAH ALAM, SELANGOR",
+    "total": "4.25"
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "vendor": "99 SPEED MART S/B",
+  "invoice_number": "18311/102/T0395",
+  "invoice_date": "2018-02-17",
+  "currency": "MYR",
+  "subtotal": null,
+  "tax": 6.14,
+  "total": 108.5,
+  "line_items": null,
+  "_note": "GST summary only, no subtotal line",
+  "_sroie_hint": {
+    "company": "99 SPEED MART S/B",
+    "date": "17-02-18",
+    "address": "LOT P. T. 2811, JALAN ANGSA, TAMAN BERKELEY 41150 KLANG, SELANGOR 1362-JLN DEVELOPMENT",
+    "total": "108.50"
+  }
+}

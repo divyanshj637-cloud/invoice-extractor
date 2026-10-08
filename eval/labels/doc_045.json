@@ -1,0 +1,11 @@
+{
+  "vendor": "UrbanNest Home Decor",
+  "invoice_number": "UN-INV-558201-1",
+  "invoice_date": "2024-10-09",
+  "currency": "INR",
+  "subtotal": null,
+  "tax": null,
+  "total": 1439.7,
+  "line_items": null,
+  "_note": "per-item tax only"
+}

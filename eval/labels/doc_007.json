@@ -1,0 +1,11 @@
+{
+  "vendor": "T.A.S LEISURE SDN BHD",
+  "invoice_number": "1080323",
+  "invoice_date": "2017-12-30",
+  "currency": "MYR",
+  "subtotal": 87.8,
+  "tax": 5.81,
+  "total": 102.4,
+  "line_items": null,
+  "_note": "math inconsistent: 10% service charge 8.78 not in subtotal+tax"
+}

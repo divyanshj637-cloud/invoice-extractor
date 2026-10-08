@@ -51,3 +51,14 @@ Built `app/schema.py` with `LineItem` and `Invoice` (Pydantic): optional fields 
 - Validator rejected it: "subtotal + tax (708.0) does not match total (70887.0)".
 - The script crashes because nothing handles the error yet. Phase 4 retry loop will.
 
+
+## Phase 3: eval set
+- 50 docs: 35 SROIE receipts (doc_001-035, random sample, seed 42) + 15 synthetic Indian invoices (doc_036-050, hand-designed edge cases).
+- Split: 15 dev (tune the prompt) / 35 test (run once at the end for the resume number). See eval/split.json.
+- Labels: AI-drafted from the receipt text, human-verified (vendor/date/total against SROIE hints, the rest against the receipt). Rules in eval/LABELING_RULES.md.
+- SROIE keys are hints only (_sroie_hint); evaluation ignores keys starting with "_".
+- Added MYR to the currency list.
+- Receipts whose own math fails carry "math inconsistent" in _note.
+- line_items not labeled (null).
+- eval/check_labels.py validates all labels against the Invoice schema.
+- TODO Phase 4: widen check_totals tolerance (0.01 -> about 0.05).

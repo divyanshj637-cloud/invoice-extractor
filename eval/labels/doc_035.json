@@ -1,0 +1,17 @@
+{
+  "vendor": "SYARIKAT PERNIAGAAN GIN KEE",
+  "invoice_number": "CS00011983",
+  "invoice_date": "2017-12-04",
+  "currency": "MYR",
+  "subtotal": 45.0,
+  "tax": 2.7,
+  "total": 47.7,
+  "line_items": null,
+  "_note": "",
+  "_sroie_hint": {
+    "company": "SYARIKAT PERNIAGAAN GIN KEE",
+    "date": "04/12/2017",
+    "address": "NO 290, JALAN AIR PANAS. SETAPAK, 53200, KUALA LUMPUR",
+    "total": "47.70"
+  }
+}

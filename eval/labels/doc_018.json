@@ -1,0 +1,17 @@
+{
+  "vendor": "PASAR RAYA MEGA MAJU (SEMENYIH) SDN BHD",
+  "invoice_number": "01-283886",
+  "invoice_date": "2018-07-03",
+  "currency": "MYR",
+  "subtotal": null,
+  "tax": 0.0,
+  "total": 30.45,
+  "line_items": null,
+  "_note": "",
+  "_sroie_hint": {
+    "company": "PASAR RAYA MEGA MAJU (SEMENYIH) SDN BHD",
+    "date": "03/07/2018",
+    "address": "NO 24, 25 & 26, JALAN PUSAT PERNIAGAAN BUNGA RAYA 4, PUSAT PERNIAGAAN BUNGA RAYA,",
+    "total": "30.45"
+  }
+}

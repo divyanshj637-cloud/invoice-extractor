@@ -1,0 +1,17 @@
+{
+  "vendor": "AEON CO. (M) BHD",
+  "invoice_number": "2018020951320023885",
+  "invoice_date": "2018-02-09",
+  "currency": null,
+  "subtotal": null,
+  "tax": 0.33,
+  "total": 5.9,
+  "line_items": null,
+  "_note": "printed SUB-TOTAL 5.90 includes GST, no excl-GST line",
+  "_sroie_hint": {
+    "company": "AEON CO. (M) BHD",
+    "date": "09/02/2018",
+    "address": "3RD FLR, AEON TAMAN MALURI SC JLN JEJAKA, TAMAN MALURI CHERAS, 55100 KUALA LUMPUR",
+    "total": "5.90"
+  }
+}
